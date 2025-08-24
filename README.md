@@ -38,14 +38,8 @@ python3 tmdb_provider_list.py
 
 Use the output of `tmdb_provider_list.py` to fill in valid providers and IDs.
 Example:
-``
-PROVIDERS = [
-    {"id": "8", "name": "Netflix"},
-    {"id": "119", "name": "Amazon Prime Video"},
-    {"id": "337", "name": "Disney Plus"},
-    {"id": "350", "name": "Apple TV"}
-]
-``
+
+https://github.com/DaFunkShun/radarr-top-movies-bot/blob/6822e0f0bbac54374cc94cb525cf1a67579af86d/radarr-top-movies-bot.py#L19-23
 
 - Run the script:
 ```bash
