@@ -39,7 +39,7 @@ python3 tmdb_provider_list.py
 Use the output of `tmdb_provider_list.py` to fill in valid providers and IDs.
 Example:
 
-https://github.com/DaFunkShun/radarr-top-movies-bot/blob/6822e0f0bbac54374cc94cb525cf1a67579af86d/radarr-top-movies-bot.py#L19-23
+https://github.com/DaFunkShun/radarr-top-movies-bot/blob/6822e0f0bbac54374cc94cb525cf1a67579af86d/radarr-top-movies-bot.py#L19-L25
 
 - Run the script:
 ```bash
